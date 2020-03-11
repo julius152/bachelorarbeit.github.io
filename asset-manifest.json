@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bachelorarbeit.github.io/static/css/main.36d105f8.chunk.css",
+    "main.js": "/bachelorarbeit.github.io/static/js/main.7fb7d6f7.chunk.js",
+    "main.js.map": "/bachelorarbeit.github.io/static/js/main.7fb7d6f7.chunk.js.map",
+    "runtime-main.js": "/bachelorarbeit.github.io/static/js/runtime-main.1576e88b.js",
+    "runtime-main.js.map": "/bachelorarbeit.github.io/static/js/runtime-main.1576e88b.js.map",
+    "static/css/2.b0bb7f2c.chunk.css": "/bachelorarbeit.github.io/static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.909db41e.chunk.js": "/bachelorarbeit.github.io/static/js/2.909db41e.chunk.js",
+    "static/js/2.909db41e.chunk.js.map": "/bachelorarbeit.github.io/static/js/2.909db41e.chunk.js.map",
+    "index.html": "/bachelorarbeit.github.io/index.html",
+    "precache-manifest.fa01057013766b815e613a9724520a6a.js": "/bachelorarbeit.github.io/precache-manifest.fa01057013766b815e613a9724520a6a.js",
+    "service-worker.js": "/bachelorarbeit.github.io/service-worker.js",
+    "static/css/2.b0bb7f2c.chunk.css.map": "/bachelorarbeit.github.io/static/css/2.b0bb7f2c.chunk.css.map",
+    "static/css/main.36d105f8.chunk.css.map": "/bachelorarbeit.github.io/static/css/main.36d105f8.chunk.css.map",
+    "static/media/cross.svg": "/bachelorarbeit.github.io/static/media/cross.bd73ca6a.svg",
+    "static/media/fh_aachen.svg": "/bachelorarbeit.github.io/static/media/fh_aachen.310951fe.svg",
+    "static/media/fhg_logo.svg": "/bachelorarbeit.github.io/static/media/fhg_logo.0619b297.svg",
+    "static/media/setupimg.svg": "/bachelorarbeit.github.io/static/media/setupimg.e1b77187.svg",
+    "static/media/untitled.svg": "/bachelorarbeit.github.io/static/media/untitled.0a7f1768.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1576e88b.js",
+    "static/css/2.b0bb7f2c.chunk.css",
+    "static/js/2.909db41e.chunk.js",
+    "static/css/main.36d105f8.chunk.css",
+    "static/js/main.7fb7d6f7.chunk.js"
+  ]
+}
