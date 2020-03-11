@@ -1,0 +1,9 @@
+version: '3'
+services:
+    web:
+        build: buildx --platform linux/arm64
+        ports:
+           - "3000:3000"
+        image: julius152/plasmaprint:reactapp
+        command: npm start
+        
